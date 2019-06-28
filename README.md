@@ -1,5 +1,5 @@
 # iNaturalist_Chile
-R script for process and plot data records from iNaturalist App
+R scripts for process and plot iNaturalist data records from Chile.
 
 ## Getting Started
 
