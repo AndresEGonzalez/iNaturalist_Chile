@@ -7,7 +7,6 @@ library(rgdal)
 library(maptools)
 library(raster)   ## To convert an "Extent" object to a "SpatialPolygons" object.
 library(rgeos)
-library(ggplot2)
 
 #The shape file data were download from http://www.ide.cl/descargas/capas/subdere/DivisionPoliticaAdministrativa2019.zip
 #CHL_adm0.shp -> Country ; CHL_adm1.shp -> Regional; CHL_adm2.shp -> Provincial
