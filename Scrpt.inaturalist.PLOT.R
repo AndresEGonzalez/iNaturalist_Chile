@@ -22,7 +22,7 @@ map_inat<-mapgrid(inat,
 
 #Env Var map_inat
 
-title = 
+
 legscale = 0 
 collow = "blue"
 colhigh = "red" 
